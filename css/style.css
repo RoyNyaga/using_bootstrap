@@ -450,3 +450,12 @@ label {
 }
 
 /*# sourceMappingURL=style.css.map */
+.imageBackground {
+  background: url(../photos/subscribe-img2.gif);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+img {
+  width: 100%;
+}
