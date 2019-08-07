@@ -59,7 +59,6 @@ body {
   padding: 15px 160px 15px 0;
   border-bottom: 2px solid #d9d9d9;
   height: 56px;
-  background-color: white;
 }
 .header-nav::before {
   position: absolute;
@@ -274,6 +273,13 @@ body {
   height: 14px;
   margin-left: 10px;
   background: url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/icon-arrow-right.svg) center/contain no-repeat;
+}
+
+header {
+  position: fixed;
+  top:0;
+  width: 100%;
+  z-index: 2;
 }
 
 .lk-features {
