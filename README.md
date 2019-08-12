@@ -6,7 +6,7 @@ This is a microver project. Click to know more about [Microverse](https://www.mi
 
 #### [Assignment link](https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)
 
-#### [View in broswer](https://roynyaga.github.io/microverse_building_with_backgrounds_and_radients/)
+#### [View in broswer](https://https://roynyaga.github.io/using_bootstrap/)
 
 
 #### Authors
